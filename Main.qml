@@ -116,7 +116,7 @@ ApplicationWindow {
 
         // Spawns enemyZigzag
         Timer {
-            interval: 10000 // every 10 second
+            interval: 5000 // every 10 second
             repeat: true
             running: true
             onTriggered: {

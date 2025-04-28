@@ -12,7 +12,7 @@ Image {
 
     property real speed: 1.5
     property real zigzagAmplitude: 20
-    property real zigzagFrequency: 0.02
+    property real zigzagFrequency: 0.03
     property Item player
     property int gameAreaHeight: 640 // default fallback
 
