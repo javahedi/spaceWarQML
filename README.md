@@ -4,8 +4,7 @@
 Welcome to **Space War QML**, a fast-paced 2D space shooter built with **Qt/QML** and **C++**!  
 Take control of your spaceship, dodge enemy attacks, and blast your way through endless waves of enemies.
 
-![Space War Banner](https://github.com/javahedi/spaceWarQML/assets/figures/screenShot.png) <!-- Optional banner if you upload an image -->
-
+![SpaceWar Screenshot](assets/figures/screenShot.png)
 ---
 
 ## 🕹️ Gameplay Features
